@@ -6,7 +6,8 @@ from django.conf.urls import patterns, include, url
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'Email_finder2.views.home', name='home'),
+    url(r'^emailchecker/$', 'email_checker.views.email_validator'),
+    #url(r'^$', 'Email_finder2.views.home', name='home'),
     # url(r'^Email_finder2/', include('Email_finder2.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
