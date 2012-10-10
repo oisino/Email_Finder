@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Desktop/Email_Finder/manage.py</string>
+	<string>email_checker/views.py</string>
 	<key>documents</key>
 	<array>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>email_checker</string>
 			<key>regexFolderFilter</key>
@@ -15,6 +17,8 @@
 			<string>email_checker</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>Email_finder2</string>
 			<key>regexFolderFilter</key>
@@ -26,15 +30,15 @@
 			<key>filename</key>
 			<string>manage.py</string>
 			<key>lastUsed</key>
-			<date>2012-10-09T00:19:57Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2012-10-09T00:20:42Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>README.md</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>Templates</string>
 			<key>regexFolderFilter</key>
@@ -47,7 +51,49 @@
 	<integer>152</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Desktop/Email_Finder/manage.py</key>
+		<key>Email_finder2/settings.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>19</integer>
+				<key>line</key>
+				<integer>121</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>110</integer>
+		</dict>
+		<key>Email_finder2/urls.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>64</integer>
+				<key>line</key>
+				<integer>8</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>email_checker/views.py</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>23</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>manage.py</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -64,11 +110,14 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Desktop/Email_Finder/manage.py</string>
+		<string>manage.py</string>
+		<string>Email_finder2/urls.py</string>
+		<string>email_checker/views.py</string>
+		<string>Email_finder2/settings.py</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{-1005, 17}, {863, 608}}</string>
+	<string>{{-1510, -78}, {863, 608}}</string>
 </dict>
 </plist>
