@@ -1,0 +1,1 @@
+from email_generator.models import Company, Name
